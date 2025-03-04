@@ -3,17 +3,6 @@
 ## Overview
 This project implements a Movie Recommendation System that suggests movies based on user preferences using machine learning techniques. The system leverages collaborative filtering, content-based filtering, and hybrid approaches to generate recommendations.
 
-## Table of Contents
-- [Overview](#-overview)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Features](#-features)
-- [Dependencies](#-dependencies)
-- [Model Overview](#-model-overview)
-- [Examples](#-examples)
-- [Troubleshooting](#-troubleshooting)
-- [Contributors](#-contributors)
-- [License](#-license)
 
 ## Installation
 
