@@ -110,13 +110,4 @@ def recommend_movie(movie_title, num_recommendations=5):
     return movies['title'].iloc[movie_indices]
 ```
 
-## Troubleshooting
-
-- **Low Recommendation Accuracy?**
-  - Increase dataset size or use a hybrid approach.
-  - Tune model parameters for better similarity detection.
-- **Runtime Errors?**
-  - Ensure all dependencies are installed correctly.
-  - Check dataset formatting (missing values, incorrect types, etc.).
-
 
