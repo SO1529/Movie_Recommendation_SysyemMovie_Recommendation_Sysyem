@@ -5,7 +5,7 @@ This project implements a **Movie Recommendation System** that suggests movies b
 
 ## Dataset
 
-- **movies.csv**: Contains movie titles, genres, and descriptions.
+- **movies.csv**: Contains movie titles, genres, and descriptions. 
 
 The dataset link:[Movie Recommendation System Dataset](https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system)
 
